@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Komal Murkute</h1>
-<h3 align="center">A passionate Data Analyst from India 
+<h3 align="center">
 Aspiring Data Analyst & ML Learner
 Building projects in Python, Power BI, and SQL.
 Learning data visualization, ML models, and analytics every day.
-Open to collaboration and new opportunities!
+Open to collaboration and new opportunities! I enjoy solving business problems using data-driven approaches and delivering models that create measurable impact.
 </h3>
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/9792eda2-6e07-4478-8ca4-28ba5540f0dc" />
 
