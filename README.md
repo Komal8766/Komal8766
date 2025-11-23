@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Komal Murkute</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif>
+<img align="right" alt="coding" width="400" src=<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4c4cfe3d-d4ec-4ab6-8d5d-ed84efa10694" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal8766&label=Profile%20views&color=0e75b6&style=flat" alt="komal8766" /> </p>
 
