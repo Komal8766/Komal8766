@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Komal Murkute</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India 
+Aspiring Data Analyst & ML Learner
+Building projects in Python, Power BI, and SQL.
+Learning data visualization, ML models, and analytics every day.
+Open to collaboration and new opportunities!
+</h3>
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/9792eda2-6e07-4478-8ca4-28ba5540f0dc" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal8766&label=Profile%20views&color=0e75b6&style=flat" alt="komal8766" /> </p>
