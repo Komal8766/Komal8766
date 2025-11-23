@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Komal Murkute</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/08d2b39a-29d7-41ce-9b0d-f3dcf8efde9e" />
-
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/9792eda2-6e07-4478-8ca4-28ba5540f0dc" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal8766&label=Profile%20views&color=0e75b6&style=flat" alt="komal8766" /> </p>
 
-- 🔭 I’m currently working on **PowerBI,Machine Learning**
+- 🔭 I’m currently working on **PowerBI,Machine Learning project**
 
 - 🌱 I’m currently learning **AIML**
 
